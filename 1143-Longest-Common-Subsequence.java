@@ -15,19 +15,19 @@ class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         int l1 = text1.length();
         int l2 = text2.length();
-        if(l1>l2){
-        int [][] dp = new int [l2][l1];
-        for(int [] i:dp){
-            Arrays.fill(i,-1);
-        }
-            return longest(0,0,text2,text1,dp,l2-1,l1-1);  
-        }else{
+        // if(l1>l2){
+        // int [][] dp = new int [l2][l1];
+        // for(int [] i:dp){
+        //     Arrays.fill(i,-1);
+        // }
+        //     return longest(0,0,text2,text1,dp,l2-1,l1-1);  
+        // }else{
           int [][] dp = new int [l1][l2];
-        for(int [] i:dp){
+        for(int [] i:dp)
             Arrays.fill(i,-1);
-        }
+        // }
          return longest(0,0,text1,text2,dp,l1-1,l2-1);  
-        }
+        // }
         // return longest(0,0,text1,text2,dp,text1.length()-1,text2.length()-1);
     }
 }
