@@ -5,10 +5,11 @@ class Solution {
         if(dp[i][j]!=-1)
             return dp[i][j];
         int take = 0;
+        int nottake =0;
         if(s1.charAt(i)==s2.charAt(j))
             take =1+ longest(i+1,j+1,s1,s2,dp,l1,l2);
-        
-        int nottake = Math.max(longest(i,j+1,s1,s2,dp,l1,l2),longest(i+1,j,s1,s2,dp,l1,l2));
+        else
+            nottake = Math.max(longest(i,j+1,s1,s2,dp,l1,l2),longest(i+1,j,s1,s2,dp,l1,l2));
         return dp[i][j] = Math.max(take,nottake);
     }
     public int longestCommonSubsequence(String text1, String text2) {
