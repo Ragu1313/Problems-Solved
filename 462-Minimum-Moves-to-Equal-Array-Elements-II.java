@@ -13,8 +13,7 @@ class Solution {
         int mid ;
         if(i%2==1)  mid = nums[i/2];
         else mid = nums[i/2-1];
-        // System.out.println(mid);
-        int res = Math.min(min1(nums,mid),min1(nums,mid+1));
+        int res = min1(nums,mid);
         return res;
     }
 }
