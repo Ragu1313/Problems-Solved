@@ -4,12 +4,10 @@ class Solution {
         ArrayList<Integer> res = new ArrayList<>();
          for (int i=0; i <n; i++)
         {
-            for (int j=i; j<n; j++)
-            {
-                int temp =0;
-                for (int k=i; k<=j; k++)
-                    temp+=nums[k];
-                res.add(temp);
+            int prefix = 0;
+            for (int j = i; j < n; j++) {
+                prefix += nums[j];
+                res.add(prefix);
             }
         }
         Collections.sort(res);
