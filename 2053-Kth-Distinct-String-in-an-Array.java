@@ -4,7 +4,7 @@ class Solution {
         for(String ch : arr)
             a.put(ch,a.getOrDefault(ch,0)+1);
         int c=1;
-        for(String ch :a.keySet()){
+        for(String ch :arr){
             if(a.get(ch)==1){
                 if(c==k){
                     return ch;
