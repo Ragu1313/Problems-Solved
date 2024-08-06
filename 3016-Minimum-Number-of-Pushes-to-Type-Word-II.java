@@ -23,17 +23,16 @@ class Solution {
         quicksort(i,high,end);
     }
     public int minimumPushes(String word) {
-        // Map<Character,count>
-        int arr[] = new int [26];
-        for(char ch : word.toCharArray()){
-            arr[ch-'a']++;
-        }
+        int [] arr = new int [26];
+       
+        for(int i=0;i<word.length();i++)
+            arr[word.charAt(i)-'a']++;
         quicksort(0,25,arr);
-        int total = 0;
+        int total =0;
         for(int i=0;i<26;i++){
             if(arr[i]==0) break;
             int temp = i/8 +1;
-            total = total + (temp * arr[i]);
+            total = total + temp*arr[i];
         }
         return total;
     }
