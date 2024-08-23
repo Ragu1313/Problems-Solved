@@ -6,12 +6,9 @@ class Solution {
         low = high = prices[0];
         for(i=1;i<prices.length;i++){
             high = prices[i];
-            if(high<low ){
+            if(high<low)
                 low = high; 
-            }
-            else if(s<high-low){
-            s = high-low;
-           }
+            s = Math.max(s,high - low);
         }
         return s;
     }
