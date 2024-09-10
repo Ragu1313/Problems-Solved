@@ -28,8 +28,7 @@ class Solution {
             ListNode temp1 = new ListNode(gcd(cur.val,prev.val));
             temp1.next = prev.next;
             prev.next = temp1;
-            prev = prev.next;
-            prev = prev.next;
+            prev = prev.next.next;
             cur = cur.next;
         }
         return head;
