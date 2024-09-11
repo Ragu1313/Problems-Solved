@@ -1,11 +1,13 @@
 class Solution {
     public int minBitFlips(int start, int goal) {
-        String s1 = Integer.toBinaryString(start^goal);
-        int count = 0;
-        for(int i=0;i<s1.length();i++){
-            if(s1.charAt(i)=='1')
-                count++;
+        int res =0;
+        while(start!=goal){
+            int t1 = start&1;
+            int t2 = goal&1;
+            if(t1!=t2) res++;
+            start = start>>1;
+            goal = goal>>1;
         }
-        return count;
+        return res;
     }
 }
