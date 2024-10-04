@@ -1,5 +1,5 @@
 class Solution {
-    ArrayList<Integer> list = new ArrayList<>();
+    int list = Integer.MAX_VALUE;
     public void bfs(int i1,int j1,int [][]mat,int [][]visited){
         Queue<int[]> q = new LinkedList<>();
         int n1 = mat.length;
@@ -14,8 +14,8 @@ class Solution {
             int j = arr[1];
             int diff = arr[2];
             if(i==n1-1 && j==m1-1){
-                list.add(diff);
-                continue;
+                if(diff<list)    list = diff;
+                // continue;
             }
             for(int k=0;k<4;k++){
                 int n = v1[k]+i;
@@ -26,8 +26,7 @@ class Solution {
                     if(maxi<visited[n][m]){
                         q.add(new int[]{n,m,maxi,mat[n][m]});
                         visited[n][m] = maxi;
-                    }
-                    
+                    }     
                 }
             }
         } 
@@ -37,11 +36,7 @@ class Solution {
         for(int i[]:visited){
             Arrays.fill(i,Integer.MAX_VALUE);
         }
-        bfs(0,0,mat,visited);
-        int mini = Integer.MAX_VALUE;
-        for(int i=0;i<list.size();i++){
-            mini = Math.min(list.get(i),mini);
-        } 
-        return mini;
+        bfs(0,0,mat,visited); 
+        return list;
     }
 }
