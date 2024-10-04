@@ -38,8 +38,8 @@ class Solution {
                 q.poll();
                 if(i==0) min = temp;
                 if(i==size-1)  maxi = temp;
-                if(node.left!=null) q.add(new Pair(node.left,2*temp+1));
-                if(node.right!=null) q.add(new Pair(node.right,2*temp+2));
+                if(node.left!=null) q.add(new Pair(node.left,(temp<<1)+1));
+                if(node.right!=null) q.add(new Pair(node.right,(temp<<1)+2));
             }
             ans = Math.max(ans,maxi-min+1);
         }
