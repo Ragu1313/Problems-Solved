@@ -54,15 +54,6 @@ class Solution {
         }
         for(int i=0;i<n;i++)   {
             if(affected[i]==0)  res.add(i);
-            else if(affected[i]==1){
-                ArrayList<Integer> arr = adj.get(i);
-                for(int j : arr){
-                    if(affected[j]==0)  {
-                        res.add(i);
-                        break;
-                    }
-                }
-            }
         }
         return res;
     }
