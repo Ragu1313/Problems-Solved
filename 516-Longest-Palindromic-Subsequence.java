@@ -1,23 +1,24 @@
 class Solution {
-    public int longest(int i,int j , String s1,String s2,int l,int [][] dp){
-        if(i>l || j>l)
-            return 0;
-        if(dp[i][j]!=-1)
-            return dp[i][j];
-        if(s1.charAt(i)==s2.charAt(j))
-            return dp[i][j] = 1+longest(i+1,j+1,s1,s2,l,dp);
-        else
-            return dp[i][j] = Math.max(longest(i+1,j,s1,s2,l,dp),longest(i,j+1,s1,s2,l,dp));
+    public int longest(String s,int start,int end,int dp[][]){
+        if(start>end) return 0;
+        char ch1 = s.charAt(start);
+        char ch2 = s.charAt(end);
+        if(start==end) return 1;
+        if(dp[start][end]!=-1){
+            return dp[start][end];
+        }
+        if(ch1==ch2)
+            return dp[start][end] = 2+longest(s,start+1,end-1,dp);
+        else{
+            int l = longest(s,start,end-1,dp);
+            int r = longest(s,start+1,end,dp);
+            return dp[start][end] = Math.max(l,r);
+        }
     }
     public int longestPalindromeSubseq(String s) {
-        String s2 = \\;
-        for(int i=s.length()-1;i>=0;i--){
-            s2+=String.valueOf(s.charAt(i));
-        }
-        int dp[][]  = new int[s.length()][s.length()];
-        // System.out.println(s2);
-        for(int [] i:dp)
+        int dp[][] = new int[s.length()][s.length()];
+        for(int i[]:dp)
             Arrays.fill(i,-1);
-        return longest(0,0,s,s2,s.length()-1,dp);
+        return longest(s,0,s.length()-1,dp);
     }
 }
