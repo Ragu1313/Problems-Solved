@@ -9,16 +9,13 @@ class Solution {
         }
         int ans = 0;
         int n = stack.peek();
-        // int ans = 0;
         for (int i = nums.length - 1; i >= 0; i--) {
             while (!stack.isEmpty() && nums[stack.peek()] <= nums[i]) {
                 ans = Math.max(ans, i - stack.pop());
             }
+            if(stack.isEmpty()) break;
         }
 
         return ans;
-            // ans = Math.max(ans,res);
-        // }
-        // return ans;
     }
 }
