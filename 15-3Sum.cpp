@@ -6,6 +6,7 @@ public:
         set<vector<int>> s ;
         for(int i=0;i<nums.size();i++){
             int j = i+1;
+            if(i!=0 && nums[i]==nums[i-1]) continue;
             int r = nums.size()-1;
             while(j<r){
                 int temp = nums[i]+nums[j]+nums[r];
