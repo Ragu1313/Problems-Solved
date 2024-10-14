@@ -4,7 +4,7 @@ public:
     
         sort(nums.begin(),nums.end());
         set<vector<int>> s ;
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<nums.size()-2;i++){
             int j = i+1;
             if(i!=0 && nums[i]==nums[i-1]) continue;
             int r = nums.size()-1;
