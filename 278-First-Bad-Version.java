@@ -8,7 +8,7 @@ public class Solution extends VersionControl {
         int r = n;
         while(l<=r){
             int mid = l+(r-l)/2;
-            System.out.println(mid);
+            // System.out.println(mid);
             boolean res = isBadVersion(mid);
             boolean res1 = true;
             if(mid!=0)
