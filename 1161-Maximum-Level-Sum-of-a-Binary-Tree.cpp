@@ -36,7 +36,7 @@ public:
                     q.push(temp->right);
                 }
             }
-            cout<<sum<<"\n";
+            // cout<<sum<<"\n";
             if(flag == 1 && sum>maxi){
                 maxi = sum;
                 c = l;
