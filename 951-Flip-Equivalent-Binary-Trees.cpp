@@ -17,11 +17,11 @@ public:
         else if(root1==NULL || root2==NULL)
             return false;
         else if(root1->val==root2->val){
-            cout<<root1->val<<" "<<root2->val<<" "<<"true"<<"\n";
+            // cout<<root1->val<<" "<<root2->val<<" "<<"true"<<"\n";
             return (flip(root1->left,root2->right) && flip(root1->right,root2->left)) || (flip(root1->left,root2->left) && flip(root1->right,root2->right));
         }    
         else{
-            cout<<root1->val<<" "<<root2->val<<" "<<"false"<<"\n";
+            // cout<<root1->val<<" "<<root2->val<<" "<<"false"<<"\n";
             return false;
         }
             
