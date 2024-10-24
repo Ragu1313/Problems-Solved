@@ -1,6 +1,5 @@
 class Solution {
     public int min(String word1,String word2,int i,int j,int dp[][]){
-        
         if(j<0) return i+1;
         if(i<0) return j+1;
         // if(j<0)  return 0;
