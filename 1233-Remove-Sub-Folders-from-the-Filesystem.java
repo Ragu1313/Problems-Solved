@@ -46,7 +46,7 @@ class Solution {
             }
             return ;
         }
-        for(int i=0;i<256;i++){
+        for(int i=47;i<124;i++){
             char ch = (char)i;
             if(trie.contains(ch)){
                 ruc(trie.get(ch),s+String.valueOf(ch),res);
@@ -61,7 +61,7 @@ class Solution {
             insert(s,trie);
         }
         List<String> res = new ArrayList<>();
-        for(int i=0;i<256;i++){
+        for(int i=47;i<124;i++){
             char ch = (char)i;
             if(trie.contains(ch)){
                 ruc(trie.get(ch),String.valueOf(ch),res);
