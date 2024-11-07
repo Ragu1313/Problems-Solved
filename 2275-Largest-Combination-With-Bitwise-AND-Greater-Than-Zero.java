@@ -1,12 +1,12 @@
 class Solution {
     public int largestCombination(int[] arr) {
-        int res[] = new int[26];
+        int res[] = new int[32];
         for(int i=0;i<arr.length;i++){
-            int k = Integer.bitCount(arr[i]);
+            // int k = Integer.bitCount(arr[i]);
             int c = 1;
-            while(k>0){
+            while(arr[i]>0){
                 if((arr[i]&1) > 0){
-                    k--;
+                    // k--;
                     res[c]++;
                 }
                 arr[i] = arr[i]>>1;
