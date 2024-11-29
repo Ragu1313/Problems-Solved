@@ -14,7 +14,8 @@ class Solution {
                     sb.append("1");
                 }
             }
-            map.put(String.valueOf(sb),map.getOrDefault(String.valueOf(sb),0)+1);
+            String s = String.valueOf(sb);
+            map.put(s,map.getOrDefault(s,0)+1);
         }
         int maxi = 0;
         for(String s : map.keySet()){
