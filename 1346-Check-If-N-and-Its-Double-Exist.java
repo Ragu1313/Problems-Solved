@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        Arrays.sort(arr);
+        // Arrays.sort(arr);
         Set<Integer> map = new HashSet<>();
         for(int i : arr){
             // if(!((i&1)>0)){
