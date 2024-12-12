@@ -2,7 +2,7 @@ class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
         StringBuilder sb = new StringBuilder();
         int n = s.length();
-        if(n<=10){
+        if(n<=10 ||n>10000){
             return new ArrayList<String>();
         }
         Set<String> s1 = new HashSet<>();
