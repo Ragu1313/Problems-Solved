@@ -2,26 +2,49 @@ class Solution {
     public long findScore(int[] nums) {
         long res = 0;
         int n = nums.length;
-        PriorityQueue<int[]> p = new PriorityQueue<>((a,b)->{
-            if(a[0]!=b[0])
-                return a[0]-b[0];
-            return a[1]-b[1];}
-        );
-        for(int i=0;i<n;i++){
-            p.add(new int[]{nums[i],i});
+        if(n==1){
+            return nums[0];
         }
-
-        while(!p.isEmpty()){
-            int arr[] = p.poll();
-            if(nums[arr[1]]!=-1){
-                res+=arr[0];
-                if(arr[1]-1>=0){
-                    nums[arr[1]-1]=-1;
-                }
-                if(arr[1]+1<n){
-                    nums[arr[1]+1]=-1;
+        if(nums[0]<=nums[1]){
+            res+=nums[0];
+            nums[0] = Integer.MAX_VALUE;
+            nums[1] = Integer.MAX_VALUE;
+        }
+        for(int i=1;i<n-1;i++){
+            if(nums[i]!=Integer.MAX_VALUE){
+                if(nums[i-1]>=nums[i] && nums[i]<=nums[i+1]){
+                    res+=nums[i];
+                    nums[i] = Integer.MAX_VALUE;
+                    nums[i-1] =  Integer.MAX_VALUE;
+                    nums[i+1] =  Integer.MAX_VALUE;
                 }
             }
+            
+        }
+        if(nums[n-1] !=Integer.MAX_VALUE && nums[n-2]>=nums[n-1]){
+            res+=nums[n-1];
+            nums[n-1] = Integer.MAX_VALUE;
+            nums[n-2] = Integer.MAX_VALUE;
+        }
+        if(nums[n-1] !=Integer.MAX_VALUE && nums[n-2]<nums[n-1]){
+            res+=nums[n-2];
+            nums[n-1] = Integer.MAX_VALUE;
+            nums[n-2] = Integer.MAX_VALUE;
+        }
+        for(int i=n-1;i>0;i--){
+            if(nums[i]!=Integer.MAX_VALUE){
+                if(nums[i-1]>=nums[i] && nums[i]<=nums[i+1]){
+                    res+=nums[i];
+                    nums[i] = Integer.MAX_VALUE;
+                    nums[i-1] =  Integer.MAX_VALUE;
+                    nums[i+1] =  Integer.MAX_VALUE;
+                }
+            }
+        }
+        if(nums[0]!=Integer.MAX_VALUE && nums[1]>=nums[0]){
+            res+=nums[0];
+            nums[0] = Integer.MAX_VALUE;
+            nums[1] = Integer.MAX_VALUE;
         }
         return res;
     }
