@@ -1,7 +1,7 @@
 class Solution {
     public int[] finalPrices(int[] prices) {
         int n = prices.length;
-        int arr[] = prices;
+        // int arr[] = prices;
         Stack<Integer> s = new Stack<>();
         // s.push(prices[n-1]);
         for(int i=n-1;i>=0;i--){
@@ -18,6 +18,6 @@ class Solution {
             
             // System.out.println(s);
         }
-        return arr;
+        return prices;
     }
 }
