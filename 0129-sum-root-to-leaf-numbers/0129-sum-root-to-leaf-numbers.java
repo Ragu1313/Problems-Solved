@@ -21,7 +21,7 @@ class Solution {
             temp = root.val;
         else temp = sum*10+root.val;
         if(root.left==null && root.right==null){
-            System.out.println(temp);
+            // System.out.println(temp);
             res +=temp;
         }
         if(root.left!=null){
