@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ragu1313/Problems-Solved/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Ragu1313/Problems-Solved/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
