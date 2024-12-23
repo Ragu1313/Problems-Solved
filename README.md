@@ -81,4 +81,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
+## String
+|  |
+| ------- |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
