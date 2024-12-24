@@ -63,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Ragu1313/Problems-Solved/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
