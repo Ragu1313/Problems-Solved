@@ -45,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Hash Table
 |  |
@@ -109,4 +111,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
