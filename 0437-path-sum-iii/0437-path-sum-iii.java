@@ -17,20 +17,16 @@ class Solution {
     int res = 0;
     public void f(TreeNode root,int tar){
         if(root!=null){
-            // if(root.left!=null)
-            f1(root,tar,0);
+            
             f(root.left,tar);
-            // if(root.right!=null)
+            f1(root,tar,0);
             f(root.right,tar);
         }
     }
     public void f1(TreeNode root,int tar,long sum){
         if(root==null)  return ;
-        // System.out.println(tar+" "+root.val);
         sum = sum+root.val;
-        
         if(tar==sum){
-            // System.out.println(res+" "+tar+" "+root.val);
             res++;
         }
         f1(root.left,tar,sum);
