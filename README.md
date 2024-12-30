@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 ## Design
 |  |
@@ -116,6 +118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Union Find
 |  |
@@ -173,4 +176,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
