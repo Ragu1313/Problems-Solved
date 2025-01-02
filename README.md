@@ -83,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0057-insert-interval](https://github.com/Ragu1313/Problems-Solved/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 ## Prefix Sum
 |  |
@@ -121,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -143,6 +146,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
@@ -187,5 +191,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
