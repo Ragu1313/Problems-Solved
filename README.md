@@ -123,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Ragu1313/Problems-Solved/tree/master/0038-count-and-say) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
