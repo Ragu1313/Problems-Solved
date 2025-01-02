@@ -1,29 +1,46 @@
 class Solution {
-    public int[] vowelStrings(String[] words, int[][] queries) {
-        int n = queries.length;
-        int res[] = new int[n];
-        int pre[] = new int[words.length];
-        int cnt = 0;
-        int i=0;
-        for(String s : words){
-            int n1 = s.length();
-            char ch1 = s.charAt(0);
-            char ch2 = s.charAt(n1-1);
-            if(ch1=='a' || ch1=='e' || ch1=='i' || ch1=='o' || ch1=='u'){
-                if(ch2=='a' || ch2=='e' || ch2=='i' || ch2=='o' || ch2=='u'){
-                    cnt++;
-                }
-            }
-            pre[i++] = cnt;
+    int []st;
+    public boolean check(char ch){
+        if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
+            return true;
         }
-        for(i=0;i<n;i++){
-            int start = queries[i][0];
-            int end = queries[i][1];
-            int ans = pre[end];
-            if(start!=0){
-                ans-=pre[start-1];
+        return false;
+    }
+    public void build(int i ,int l ,int h,String[] words){
+        if(l==h){
+            int len = words[l].length();
+            char ch = words[l].charAt(len-1);
+            if(check(ch) && check(words[l].charAt(0))){
+                st[i] = 1; 
             }
-            res[i] = ans;
+            else{
+                st[i] = 0;
+            }
+            return ;
+        }
+        int mid = l+(h-l)/2;
+        build(i*2+1,l,mid,words);
+        build(i*2+2,mid+1,h,words);
+        st[i] =  st[i*2+1] + st[i*2+2];
+    }
+    public int ans(int i ,int low,int high,int l,int h){
+        if(low>h || high<l){
+            return 0;
+        }
+        else if(low>=l && high<=h){
+            return st[i];
+        }
+        int mid = low+(high-low)/2;
+        return ans(i*2+1,low,mid,l,h) + ans(i*2+2,mid+1,high,l,h);
+    }
+    public int[] vowelStrings(String[] words, int[][] queries) {
+        st = new int[words.length*4];
+        int n1 = words.length;
+        build(0,0,n1-1,words);
+        int n  = queries.length;
+        int res [] = new int[n];
+        for(int i=0;i<n;i++){
+            res[i] = ans(0,0,n1-1,queries[i][0],queries[i][1]);
         }
         return res;
     }
