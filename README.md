@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
 |  |
 | ------- |
