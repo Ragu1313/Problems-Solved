@@ -28,7 +28,7 @@ class Solution {
             else if(ii>25){
                 ii = ii%26;
             }
-            ii=ii%26;
+            // ii=ii%26;
             // System.out.println(ii);
             char ch = (char)(ii+'a');
             
