@@ -98,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
@@ -159,6 +160,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 ## Ordered Set
 |  |
 | ------- |
