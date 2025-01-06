@@ -1,23 +1,30 @@
 class Solution {
     public int[] minOperations(String s) {
-        Set<Integer> set = new HashSet<>();
-        int res = 0;
-        int cnt = 0;
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(ch=='1'){
-                set.add(i);
+        int n=s.length();
+        int t1[]= new int[n];
+        int t2[]=new int[n];
+        int c1=0;
+        int c2=0;
+        for(int i=0;i<n;i++){
+            t1[i]=c1;
+            if(s.charAt(i)=='1'){
+                c2++;
             }
+            c1+=c2;
         }
-        int ans[] = new int[s.length()];
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            int temp = 0;
-            for(int j: set){
-                temp = temp + Math.abs(j-i);
+        c1=0;
+        c2=0;
+        for(int i=n-1;i>=0;i--){
+            t2[i]=c1;
+            if(s.charAt(i)=='1'){
+                c2++;
             }
-            ans[i] = temp;
+            c1+=c2;
         }
-        return ans;
+        int t3[]=new int[n];
+        for(int i=0;i<n;i++){
+            t3[i]=t1[i]+t2[i];
+        }
+        return t3;
     }
 }
