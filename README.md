@@ -101,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -156,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Ordered Set
 |  |
 | ------- |
