@@ -24,8 +24,8 @@ class Solution {
                 int s1 = 0;
                 int s2 = 0;
                 for(int i=0;i<n;i++){
-                    s1+=Integer.parseInt(""+s.charAt(i));
-                    s2+=Integer.parseInt(""+s.charAt(i+n));
+                    s1+=s.charAt(i)-'0';
+                    s2+=s.charAt(i+n)-'0';
                 }
                 if(s1==s2){
                     res++;
