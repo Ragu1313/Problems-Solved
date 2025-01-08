@@ -107,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,8 +247,17 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
