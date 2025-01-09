@@ -86,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/Ragu1313/Problems-Solved/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -169,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Ragu1313/Problems-Solved/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -208,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0148-sort-list) |
 ## Divide and Conquer
