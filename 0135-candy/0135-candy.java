@@ -6,10 +6,10 @@ class Solution {
         // int pcost = 1;
         while(l<n){
             // pcost = 1;
-            if( arr[l]==arr[l-1]){
+            while(l<n &&  arr[l]==arr[l-1]){
                 l++;
                 res++;
-                continue;
+                // continue;
             }
             int pcost = 1;
             while(l < n && arr[l]>arr[l-1]){
