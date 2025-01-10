@@ -7,12 +7,12 @@ class Solution {
         return arr;
     }
     public List<String> wordSubsets(String[] words1, String[] words2) {
-        Set<String> set = new HashSet<>();
-        for(String i : words2){
-            set.add(i);
-        }
+        // Set<String> words2 = new HashSet<>();
+        // for(String i : words2){
+        //     words2.add(i);
+        // }
         int cnt[] = new int[26];
-        for(String s : set){
+        for(String s : words2){
             int arr[] = ccc(s);
             for(int i=0;i<26;i++){
                 cnt[i] = Math.max(cnt[i],arr[i]);
