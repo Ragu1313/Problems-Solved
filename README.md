@@ -90,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
@@ -128,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2792-neighboring-bitwise-xor) |
@@ -156,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 ## Prefix Sum
 |  |
 | ------- |
