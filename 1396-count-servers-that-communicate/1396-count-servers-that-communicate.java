@@ -3,7 +3,7 @@ class Solution {
 
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[] { r, c });
-        System.out.println();
+        // System.out.println();
         grid[r][c] = 0;
         int cnt = 1;
         // int n
