@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu1313/Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,4 +352,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
