@@ -121,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/Ragu1313/Problems-Solved/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Ragu1313/Problems-Solved/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -254,6 +255,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ragu1313/Problems-Solved/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
