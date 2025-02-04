@@ -2,7 +2,7 @@
 using namespace std;
 class Solution {
 public:
-    int f(vector<vector<int>> adj,vector<int> wei,int n){
+    int f(vector<vector<int>>& adj,vector<int> wei,int n){
         priority_queue<vector<int> , vector<vector<int>> , greater<vector<int>> > p;
         p.push({0,0});
         wei[0] = 0;
@@ -36,7 +36,6 @@ public:
             int src = i[0];
             int des = i[1];
             adj[src].push_back(des);
-            
             res.push_back(f(adj,weight,n));
         }
         return res;
