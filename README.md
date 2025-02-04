@@ -107,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3429-special-array-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Design
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
