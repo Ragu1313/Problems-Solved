@@ -157,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1755-defuse-the-bomb](https://github.com/Ragu1313/Problems-Solved/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ragu1313/Problems-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu1313/Problems-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
