@@ -13,10 +13,10 @@ public:
         }
         // int res = 0;
         for(auto& [k,v] : m){
-            if(v>1){
+            // if(v>1){
                 int temp = 4*v*(v-1);
                 res = res + temp;
-            }
+            // }
         }
         return res;
     }
