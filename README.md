@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Union Find
 |  |
@@ -460,4 +462,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ragu1313/Problems-Solved/tree/master/1706-min-cost-to-connect-all-points) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
