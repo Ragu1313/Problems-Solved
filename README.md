@@ -166,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0879-maximize-distance-to-closest-person](https://github.com/Ragu1313/Problems-Solved/tree/master/0879-maximize-distance-to-closest-person) |
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ragu1313/Problems-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
@@ -224,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ragu1313/Problems-Solved/tree/master/0854-making-a-large-island) |
+| [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu1313/Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -308,6 +310,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
+| [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 ## Graph
 |  |
 | ------- |
@@ -382,6 +385,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
