@@ -9,10 +9,11 @@ public:
             if(vis[i]==0){
                 vis[i] = 1 ;
                 f(i,v,vis,tim,low,res,adj);
-                low[v] = min(low[i],low[v]);
+                
                 if(low[i]>tim[v]){
                     res.push_back({i,v});
                 } 
+                low[v] = min(low[i],low[v]);
             }
             else {
                 low[v] = min(low[i],low[v]);
