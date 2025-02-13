@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -82,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -118,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -138,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/Ragu1313/Problems-Solved/tree/master/2434-design-a-number-container-system) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -187,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu1313/Problems-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -284,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ragu1313/Problems-Solved/tree/master/1706-min-cost-to-connect-all-points) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
@@ -331,6 +337,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
