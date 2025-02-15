@@ -35,7 +35,7 @@ class Solution {
         f(n);
         int res = 0;
         for(Pair p : arr){
-            if(p.num>n)   break;
+            // if(p.num>n)   break;
             res+=p.sqr;
         }
         return res;
