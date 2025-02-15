@@ -7,7 +7,8 @@ class Pair{
     }
 }
 class Solution {
-    List<Pair> arr = new ArrayList<>();
+    static List<Pair> arr = new ArrayList<>();
+    static int b = 0;
     int flag = 0;
     public void backtrack(String s,int i,int n,int sum,int sq){
         if(flag==1) return ;
@@ -22,8 +23,8 @@ class Solution {
            backtrack(s,j+1,n,dup+sum,sq);
         }
     }
-    public void f(int n){
-        for(int i=1;i<=n;i++){
+    public void f(){
+        for(int i=1;i<=1000;i++){
             int sq = i*i;
             String s = String.valueOf(sq);
             flag  = 0;
@@ -32,10 +33,13 @@ class Solution {
         }
     }
     public int punishmentNumber(int n) {
-        f(n);
+        if(b==0){
+            f();b=1;
+        }
+        
         int res = 0;
         for(Pair p : arr){
-            // if(p.num>n)   break;
+            if(p.num>n)   break;
             res+=p.sqr;
         }
         return res;
