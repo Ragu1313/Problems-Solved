@@ -22,8 +22,8 @@ class Solution {
            backtrack(s,j+1,n,dup+sum,sq);
         }
     }
-    public void f(){
-        for(int i=1;i<=1000;i++){
+    public void f(int n){
+        for(int i=1;i<=n;i++){
             int sq = i*i;
             String s = String.valueOf(sq);
             flag  = 0;
@@ -32,11 +32,10 @@ class Solution {
         }
     }
     public int punishmentNumber(int n) {
-        f();
+        f(n);
         int res = 0;
         for(Pair p : arr){
             if(p.num>n)   break;
-            // System.out.println(p.num +" "+p.sqr);
             res+=p.sqr;
         }
         return res;
