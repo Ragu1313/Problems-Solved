@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2434-design-a-number-container-system](https://github.com/Ragu1313/Problems-Solved/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -195,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ragu1313/Problems-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -409,6 +411,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 ## Ordered Set
@@ -474,6 +477,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Ragu1313/Problems-Solved/tree/master/1755-defuse-the-bomb) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Counting
 |  |
 | ------- |
