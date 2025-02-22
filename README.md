@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -81,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/Ragu1313/Problems-Solved/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/Ragu1313/Problems-Solved/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -104,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
@@ -285,6 +288,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ragu1313/Problems-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
