@@ -226,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
@@ -420,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0148-sort-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
+| [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -544,6 +546,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 ## Biconnected Component
 |  |
