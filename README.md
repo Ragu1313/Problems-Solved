@@ -573,4 +573,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ragu1313/Problems-Solved/tree/master/2610-closest-prime-numbers-in-range) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Ragu1313/Problems-Solved/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
