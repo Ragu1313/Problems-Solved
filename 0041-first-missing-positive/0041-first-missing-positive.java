@@ -3,9 +3,9 @@ class Solution {
         Arrays.sort(nums);
         int n = nums.length;
         // Set<Integer> set = new TreeSet<>();
-        for(int i=0;i<n;i++){
-            System.out.print(nums[i]+" ");
-        }
+        // for(int i=0;i<n;i++){
+        //     System.out.print(nums[i]+" ");
+        // }
         int  j = 0;
         while(j<n && nums[j]<=0)    j++;
         int num = 1;
