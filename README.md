@@ -233,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -350,6 +351,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2509-minimize-xor) |
+| [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Sorting
 |  |
@@ -448,6 +450,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 ## Ordered Set
 |  |
