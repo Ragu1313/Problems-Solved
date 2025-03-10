@@ -170,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2434-design-a-number-container-system](https://github.com/Ragu1313/Problems-Solved/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -232,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -518,6 +520,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Ragu1313/Problems-Solved/tree/master/1755-defuse-the-bomb) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
