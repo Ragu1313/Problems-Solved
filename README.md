@@ -252,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3429-special-array-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3429-special-array-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3469-maximum-height-of-a-triangle) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
+| [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
 |  |
 | ------- |
