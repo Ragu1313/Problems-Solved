@@ -8,10 +8,10 @@ class Solution {
         return false;
     }
     public int maximumCandies(int[] candies, long k) {
-        Arrays.sort(candies);
+        // Arrays.sort(candies);
         int n =  candies.length;
         int l = 1;
-        int r = candies[n-1];
+        int r = 10000000;
         int res = 0;
         while(l<=r){
             int mid = l+(r-l)/2;
