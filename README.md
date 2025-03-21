@@ -169,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ragu1313/Problems-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Ragu1313/Problems-Solved/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -232,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ragu1313/Problems-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu1313/Problems-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2358-number-of-ways-to-split-array) |
@@ -338,6 +340,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ragu1313/Problems-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu1313/Problems-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
@@ -414,6 +417,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1706-min-cost-to-connect-all-points](https://github.com/Ragu1313/Problems-Solved/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ragu1313/Problems-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ragu1313/Problems-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -584,6 +588,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ragu1313/Problems-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ragu1313/Problems-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 ## Doubly-Linked List
 |  |
