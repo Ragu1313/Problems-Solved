@@ -101,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ragu1313/Problems-Solved/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ragu1313/Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ragu1313/Problems-Solved/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
@@ -364,6 +366,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ragu1313/Problems-Solved/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Greedy
 |  |
@@ -426,6 +429,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ragu1313/Problems-Solved/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
