@@ -47,6 +47,7 @@ class Solution {
         for(int i=0;i<n;i++){
             res[i] = map.get(queries[i]);
         }
+        System.gc();
         return res;
     }
 
