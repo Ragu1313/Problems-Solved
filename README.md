@@ -162,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ragu1313/Problems-Solved/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
@@ -199,6 +200,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ragu1313/Problems-Solved/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
@@ -343,6 +345,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0038-count-and-say](https://github.com/Ragu1313/Problems-Solved/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/Ragu1313/Problems-Solved/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
@@ -462,6 +465,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
+| [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/Ragu1313/Problems-Solved/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
@@ -481,6 +485,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Two Pointers
@@ -529,6 +534,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
