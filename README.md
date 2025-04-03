@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2649-count-total-number-of-colored-cells](https://github.com/Ragu1313/Problems-Solved/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu1313/Problems-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -273,6 +275,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2792-neighboring-bitwise-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -408,6 +411,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2509-minimize-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
 | ------- |
@@ -420,6 +424,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Ragu1313/Problems-Solved/tree/master/3430-count-days-without-meetings) |
 ## Backtracking
 |  |
@@ -663,6 +668,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ragu1313/Problems-Solved/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 ## Database
 |  |
 | ------- |
@@ -672,4 +678,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
