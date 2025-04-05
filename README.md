@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ragu1313/Problems-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ragu1313/Problems-Solved/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ragu1313/Problems-Solved/tree/master/2649-count-total-number-of-colored-cells) |
@@ -498,6 +499,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ragu1313/Problems-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ragu1313/Problems-Solved/tree/master/2262-solving-questions-with-brainpower) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ragu1313/Problems-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/2562-count-ways-to-build-good-strings) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Ragu1313/Problems-Solved/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ragu1313/Problems-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Number Theory
 |  |
 | ------- |
