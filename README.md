@@ -495,6 +495,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
+| [0688-knight-probability-in-chessboard](https://github.com/Ragu1313/Problems-Solved/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ragu1313/Problems-Solved/tree/master/1025-minimum-cost-for-tickets) |
