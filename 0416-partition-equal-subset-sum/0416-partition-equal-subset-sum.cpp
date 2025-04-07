@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int solve(int ind,int sum,vector<int>&nums,vector<vector<int>> & dp) {
-        if(ind==nums.size())    return 0;
-        if(sum==0)  return 1;
-        if(dp[ind][sum]!=-1)    return dp[ind][sum];
-        int res = 0;
-        if(nums[ind]<=sum){
-            res = solve(ind+1,sum-nums[ind],nums,dp);
+    int solve(vector<int>& nums, vector<vector<int>>& dp, int s, int idx,
+               int t) {
+        if (idx >= nums.size() || s > t)
+            return 0;
+        if (t == s )
+            return 1;
+        if(dp[idx][s]!=-1)  return dp[idx][s];
+        int res=0;
+        if(solve(nums, dp, s + nums[idx], idx + 1, t) || solve(nums, dp, s, idx + 1, t)){
+            res = 1;
         }
-        int res2 = solve(ind+1,sum,nums,dp);
-        if(res==1 || res2==1){
-            return dp[ind][sum] =  1;
-        }
-        return dp[ind][sum] =  0;
+        return dp[idx][s] = res;
     }
     bool canPartition(vector<int>& nums) {
         int sum = 0;
@@ -24,8 +23,7 @@ public:
             return false;
         sum /= 2;
         vector<vector<int>> dp(ss, vector<int>(sum + 1, -1));
-        // int arr[][] = new int[n+1][sum+1];
-        return solve(0,sum,nums,dp);
+        return solve(nums, dp, 0, 0, sum);
        
     }
 };
