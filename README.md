@@ -202,6 +202,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Array
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
 |  |
 | ------- |
