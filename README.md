@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
@@ -375,6 +376,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ragu1313/Problems-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
