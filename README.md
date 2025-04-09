@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
@@ -232,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
+| [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ragu1313/Problems-Solved/tree/master/0854-making-a-large-island) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Ragu1313/Problems-Solved/tree/master/0879-maximize-distance-to-closest-person) |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 ## Biconnected Component
