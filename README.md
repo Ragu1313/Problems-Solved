@@ -710,6 +710,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0620-not-boring-movies](https://github.com/Ragu1313/Problems-Solved/tree/master/0620-not-boring-movies) |
 | [1317-monthly-transactions-i](https://github.com/Ragu1313/Problems-Solved/tree/master/1317-monthly-transactions-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ragu1313/Problems-Solved/tree/master/1801-average-time-of-process-per-machine) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ragu1313/Problems-Solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Queue
 |  |
 | ------- |
