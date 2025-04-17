@@ -201,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ragu1313/Problems-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -288,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ragu1313/Problems-Solved/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/2690-house-robber-iv) |
@@ -649,6 +651,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2478-longest-nice-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
