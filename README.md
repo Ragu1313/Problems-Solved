@@ -177,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0138-copy-list-with-random-pointer](https://github.com/Ragu1313/Problems-Solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
@@ -226,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0407-trapping-rain-water-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
@@ -575,11 +577,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
