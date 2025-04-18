@@ -1,26 +1,32 @@
 class Solution {
-    
-    public String countAndSay(int n) {
-        if(n==1)    return "1";
-        // Map<String,String>
-        String res = "1";
-        for(int i=2;i<=n;i++){
-            char prev= res.charAt(0);
-            String temp = "";
+    public StringBuilder build(StringBuilder sb){
+        int n = sb.length();
+        int i = 0;
+        StringBuilder res = new StringBuilder();
+        while(i<n){
+            char ch = sb.charAt(i);
             int cnt = 1;
-            for(int j=1;j<res.length();j++){
-                char ch = res.charAt(j);
-                if(prev!=ch){
-                    temp = temp+String.valueOf(cnt)+String.valueOf(prev);
-                    prev = ch;
-                    cnt = 0;
-                }
+            i++;
+            while(i<n && ch==sb.charAt(i)){
                 cnt++;
+                i++;
             }
-            temp = temp+String.valueOf(cnt)+String.valueOf(prev);
-            res = temp;
-            // System.out.println(res);
+            res.append(String.valueOf(cnt));
+            res.append(ch);
+            // System.out.println("hi");
         }
+        // System.out.println(res);
         return res;
+        
+    }
+    public String f(StringBuilder sb , int k){
+        if(k==0){
+            return sb.toString();
+        }
+        return f(build(sb),k-1);
+    }
+    public String countAndSay(int n) {
+        if(n==0)    return "";
+        return f(new StringBuilder("1"),n-1);
     }
 }
