@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Ragu1313/Problems-Solved/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/Ragu1313/Problems-Solved/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -193,6 +194,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ragu1313/Problems-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ragu1313/Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Ragu1313/Problems-Solved/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
