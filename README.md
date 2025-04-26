@@ -294,6 +294,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Ragu1313/Problems-Solved/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -679,6 +680,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1755-defuse-the-bomb](https://github.com/Ragu1313/Problems-Solved/tree/master/1755-defuse-the-bomb) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2478-longest-nice-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Ragu1313/Problems-Solved/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -758,9 +760,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Ragu1313/Problems-Solved/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Ragu1313/Problems-Solved/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
