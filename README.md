@@ -329,6 +329,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Design
 |  |
 | ------- |
