@@ -1,12 +1,12 @@
 class Solution {
     public long countSubarrays(int[] nums, int k) {
-        Map<Integer,Integer> map = new HashMap<>();
+        // Map<Integer,Integer> map = new HashMap<>();
         int great = 0,cnt = 0;
         for(int i : nums){
-            map.put(i,map.getOrDefault(i,0)+1);
+            // map.put(i,map.getOrDefault(i,0)+1);
             if(i>=great){
                 great = i;
-                cnt = map.get(i);
+                // cnt = map.get(i);
             }
         }
         int right = 0;
