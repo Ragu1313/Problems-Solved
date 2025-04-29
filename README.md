@@ -319,6 +319,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ragu1313/Problems-Solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -689,6 +690,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ragu1313/Problems-Solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
