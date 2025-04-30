@@ -210,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ragu1313/Problems-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
+| [2721-sum-of-distances](https://github.com/Ragu1313/Problems-Solved/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -311,6 +312,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2690-house-robber-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2721-sum-of-distances](https://github.com/Ragu1313/Problems-Solved/tree/master/2721-sum-of-distances) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2792-neighboring-bitwise-xor) |
@@ -393,6 +395,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/Ragu1313/Problems-Solved/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
