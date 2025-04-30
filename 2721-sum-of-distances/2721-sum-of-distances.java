@@ -20,7 +20,7 @@ class Solution {
             int rightfer = cnt.get(nums[i]) - cnt2.get(nums[i]);
             long rightSum = map.get(nums[i]) - map2.get(nums[i]);
             
-            long right = Math.abs( (i*1L*rightfer) - rightSum  );
+            long right = Math.abs( rightSum - (i*1L*rightfer)  );
             // System.out.println(left+" "+right+" leftSum "+left);
             res[i] = left+right;
         }
