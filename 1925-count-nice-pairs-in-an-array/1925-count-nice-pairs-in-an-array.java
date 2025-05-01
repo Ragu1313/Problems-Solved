@@ -1,6 +1,11 @@
 class Solution {
     public int reverse(int i){
-        return Integer.parseInt(new StringBuilder(String.valueOf(i)).reverse().toString());
+        int rev = 0;
+        while(i>0){
+            rev = rev*10 + i%10;
+            i/=10;
+        }
+        return rev;
     }
 
     public int countNicePairs(int[] nums) {
