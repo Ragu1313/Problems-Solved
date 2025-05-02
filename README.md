@@ -325,6 +325,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2915-count-of-interesting-subarrays) |
@@ -404,6 +405,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ragu1313/Problems-Solved/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/Ragu1313/Problems-Solved/tree/master/2721-sum-of-distances) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
