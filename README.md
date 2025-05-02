@@ -421,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
+| [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -561,6 +562,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0688-knight-probability-in-chessboard](https://github.com/Ragu1313/Problems-Solved/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ragu1313/Problems-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Ragu1313/Problems-Solved/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -587,6 +589,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
