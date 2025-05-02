@@ -23,7 +23,7 @@ class Solution {
                         while(right<temp){
                             arr[right++] = 1;
                         }
-                        left = temp;
+                        left = right;
                     }
                     temp++;
                 }
