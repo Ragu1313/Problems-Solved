@@ -17,7 +17,7 @@ class Solution {
         }
         for(int i=1;i<7;i++){
             if(arr1[i]==n-same[i]){
-                System.out.println(i +" "+ arr2[i]);
+                // System.out.println(i +" "+ arr2[i]);
                 return Math.min(arr2[i],n-arr2[i]-same[i]);
             }
         }
