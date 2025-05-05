@@ -566,6 +566,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0688-knight-probability-in-chessboard](https://github.com/Ragu1313/Problems-Solved/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0806-domino-and-tromino-tiling](https://github.com/Ragu1313/Problems-Solved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ragu1313/Problems-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
