@@ -287,6 +287,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Ragu1313/Problems-Solved/tree/master/2048-build-array-from-permutation) |
 | [2104-operations-on-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2104-operations-on-tree) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2145-grid-game](https://github.com/Ragu1313/Problems-Solved/tree/master/2145-grid-game) |
@@ -761,6 +762,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
+| [2048-build-array-from-permutation](https://github.com/Ragu1313/Problems-Solved/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 ## Biconnected Component
