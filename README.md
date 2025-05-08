@@ -345,6 +345,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -390,6 +391,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -555,6 +557,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -680,6 +683,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -746,6 +750,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
