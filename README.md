@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/Ragu1313/Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/Ragu1313/Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Ragu1313/Problems-Solved/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/Ragu1313/Problems-Solved/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
@@ -132,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/Ragu1313/Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -150,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0407-trapping-rain-water-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/Ragu1313/Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Ragu1313/Problems-Solved/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/Ragu1313/Problems-Solved/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
