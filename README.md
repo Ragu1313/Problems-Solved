@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu1313/Problems-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
@@ -355,6 +356,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ragu1313/Problems-Solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ragu1313/Problems-Solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -535,6 +537,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ragu1313/Problems-Solved/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Ragu1313/Problems-Solved/tree/master/3430-count-days-without-meetings) |
 ## Backtracking
 |  |
