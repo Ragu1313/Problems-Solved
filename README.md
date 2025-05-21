@@ -191,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ragu1313/Problems-Solved/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Ragu1313/Problems-Solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/0133-clone-graph) |
@@ -246,6 +247,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0041-first-missing-positive](https://github.com/Ragu1313/Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Ragu1313/Problems-Solved/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Ragu1313/Problems-Solved/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ragu1313/Problems-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -395,6 +397,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0407-trapping-rain-water-ii) |
