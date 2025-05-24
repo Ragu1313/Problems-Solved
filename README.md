@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0617-merge-two-binary-trees](https://github.com/Ragu1313/Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Ragu1313/Problems-Solved/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Ragu1313/Problems-Solved/tree/master/0690-employee-importance) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0770-couples-holding-hands](https://github.com/Ragu1313/Problems-Solved/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
@@ -801,6 +803,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
