@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0328-odd-even-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
+| [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
@@ -304,6 +306,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1524-string-matching-in-an-array) |
+| [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 | [1656-count-good-triplets](https://github.com/Ragu1313/Problems-Solved/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
@@ -393,6 +396,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 | [2104-operations-on-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/Ragu1313/Problems-Solved/tree/master/2434-design-a-number-container-system) |
 ## Binary Indexed Tree
@@ -816,6 +820,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -835,6 +840,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 ## Combinatorics
 |  |
 | ------- |
