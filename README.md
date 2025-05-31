@@ -174,6 +174,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/Ragu1313/Problems-Solved/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/Ragu1313/Problems-Solved/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ragu1313/Problems-Solved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu1313/Problems-Solved/tree/master/1396-count-servers-that-communicate) |
@@ -288,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/Ragu1313/Problems-Solved/tree/master/0854-making-a-large-island) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Ragu1313/Problems-Solved/tree/master/0879-maximize-distance-to-closest-person) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/Ragu1313/Problems-Solved/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ragu1313/Problems-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -419,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ragu1313/Problems-Solved/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/Ragu1313/Problems-Solved/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu1313/Problems-Solved/tree/master/1396-count-servers-that-communicate) |
