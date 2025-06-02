@@ -1,30 +1,28 @@
 class Solution {
-    public int candy(int[] arr) {
-        int res = 1;
-        int n = arr.length;
-        int l = 1;
-        // int pcost = 1;
-        while(l<n){
-            // pcost = 1;
-            while(l<n &&  arr[l]==arr[l-1]){
-                l++;
-                res++;
-                // continue;
+    public int candy(int[] ratings) {
+        int cnt = 1;
+        int n = ratings.length;
+        int arr[] = new int[n];
+        arr[0] = 1;
+        for(int i=1;i<n;i++){
+            if(ratings[i-1]<ratings[i]){
+                arr[i] = arr[i-1]+1;
             }
-            int pcost = 1;
-            while(l < n && arr[l]>arr[l-1]){
-                pcost++;
-                res+=pcost;
-                l++;
+            else{
+                arr[i] = 1;
             }
-            int small = 1;
-            while(l < n && arr[l]<arr[l-1]){
-                res+=small;
-                small++;
-                l++;
+        }
+        int res = 0;
+        res+= Math.max(arr[n-1],1);
+        for(int i=n-2;i>=0;i--){
+            if(ratings[i+1]<ratings[i]){
+                cnt++;
+                res+=Math.max(arr[i],cnt);
             }
-            if(small>pcost)
-            res = res+small-pcost;   
+            else{
+                cnt = 1;
+                res+=Math.max(arr[i],cnt);
+            }
         }
         return res;
     }
