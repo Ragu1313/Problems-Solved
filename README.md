@@ -501,6 +501,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ragu1313/Problems-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Union Find
 |  |
 | ------- |
@@ -661,6 +662,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -760,6 +762,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2215-finding-3-digit-even-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3469-maximum-height-of-a-triangle) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Rolling Hash
 |  |
 | ------- |
