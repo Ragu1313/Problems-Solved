@@ -104,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -709,6 +710,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
