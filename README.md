@@ -397,6 +397,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
@@ -561,6 +562,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0075-sort-colors](https://github.com/Ragu1313/Problems-Solved/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
@@ -665,6 +667,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
@@ -741,6 +744,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
@@ -861,6 +865,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 ## Combinatorics
