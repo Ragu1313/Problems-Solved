@@ -229,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ragu1313/Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Ragu1313/Problems-Solved/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -321,6 +322,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ragu1313/Problems-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -546,6 +548,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ragu1313/Problems-Solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ragu1313/Problems-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ragu1313/Problems-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ragu1313/Problems-Solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -809,6 +812,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Ragu1313/Problems-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu1313/Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/1502-construct-k-palindrome-strings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ragu1313/Problems-Solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
