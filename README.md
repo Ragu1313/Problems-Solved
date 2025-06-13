@@ -363,6 +363,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2690-house-robber-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ragu1313/Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/Ragu1313/Problems-Solved/tree/master/2721-sum-of-distances) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -555,6 +556,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2509-minimize-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ragu1313/Problems-Solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ragu1313/Problems-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -706,6 +708,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2665-minimum-time-to-repair-cars](https://github.com/Ragu1313/Problems-Solved/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
