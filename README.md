@@ -200,6 +200,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ragu1313/Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -472,6 +473,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Ragu1313/Problems-Solved/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/Ragu1313/Problems-Solved/tree/master/0127-word-ladder) |
@@ -798,6 +800,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ragu1313/Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Ragu1313/Problems-Solved/tree/master/1755-defuse-the-bomb) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ragu1313/Problems-Solved/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
