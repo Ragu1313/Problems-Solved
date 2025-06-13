@@ -209,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0138-copy-list-with-random-pointer](https://github.com/Ragu1313/Problems-Solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
+| [0290-word-pattern](https://github.com/Ragu1313/Problems-Solved/tree/master/0290-word-pattern) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
@@ -477,6 +478,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
+| [0290-word-pattern](https://github.com/Ragu1313/Problems-Solved/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
