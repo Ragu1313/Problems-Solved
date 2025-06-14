@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ragu1313/Problems-Solved/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ragu1313/Problems-Solved/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ragu1313/Problems-Solved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu1313/Problems-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
@@ -560,6 +561,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2509-minimize-xor](https://github.com/Ragu1313/Problems-Solved/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2591-frog-jump-ii) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ragu1313/Problems-Solved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ragu1313/Problems-Solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
