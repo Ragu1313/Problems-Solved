@@ -63,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
@@ -271,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ragu1313/Problems-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ragu1313/Problems-Solved/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
@@ -431,6 +433,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0407-trapping-rain-water-ii) |
@@ -646,6 +649,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
@@ -919,6 +923,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Queue
 |  |
