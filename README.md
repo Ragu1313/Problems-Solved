@@ -929,6 +929,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0596-classes-with-at-least-5-students](https://github.com/Ragu1313/Problems-Solved/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Ragu1313/Problems-Solved/tree/master/0620-not-boring-movies) |
 | [1317-monthly-transactions-i](https://github.com/Ragu1313/Problems-Solved/tree/master/1317-monthly-transactions-i) |
+| [1415-students-and-examinations](https://github.com/Ragu1313/Problems-Solved/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ragu1313/Problems-Solved/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/Ragu1313/Problems-Solved/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ragu1313/Problems-Solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
