@@ -289,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Ragu1313/Problems-Solved/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ragu1313/Problems-Solved/tree/master/0403-frog-jump) |
@@ -670,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
+| [0312-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ragu1313/Problems-Solved/tree/master/0403-frog-jump) |
