@@ -327,6 +327,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1293-three-consecutive-odds](https://github.com/Ragu1313/Problems-Solved/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ragu1313/Problems-Solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Ragu1313/Problems-Solved/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu1313/Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ragu1313/Problems-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -476,6 +477,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ragu1313/Problems-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Ragu1313/Problems-Solved/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -690,6 +692,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ragu1313/Problems-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Ragu1313/Problems-Solved/tree/master/1063-best-sightseeing-pair) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Ragu1313/Problems-Solved/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Ragu1313/Problems-Solved/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ragu1313/Problems-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
