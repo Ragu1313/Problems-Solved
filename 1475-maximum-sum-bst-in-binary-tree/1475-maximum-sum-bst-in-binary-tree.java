@@ -21,7 +21,7 @@ class Solution {
         int right[] = f(root.right,maxi);
         if(left[0]==1 || right[0]==1)  return new int[]{1,0,0,0} ;
         else if(root.val<=left[2] || root.val>=right[1])  {
-            System.out.println(root.val);
+            // System.out.println(root.val);
             return new int[]{1,0,0,0};
         }
         else{
