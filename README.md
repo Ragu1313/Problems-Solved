@@ -43,6 +43,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1500-count-largest-group](https://github.com/Ragu1313/Problems-Solved/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ragu1313/Problems-Solved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ragu1313/Problems-Solved/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Ragu1313/Problems-Solved/tree/master/2048-build-array-from-permutation) |
 | [2104-operations-on-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2104-operations-on-tree) |
@@ -924,6 +927,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ragu1313/Problems-Solved/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
@@ -965,6 +969,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Queue
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ragu1313/Problems-Solved/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
