@@ -1,33 +1,10 @@
-// "3+2*2" → should be 7  
-// Your logic:  
-// "3+2*2" → calculate `/` → nothing  
-// → calculate `*` → `2*2 = 4` → becomes `3+4`  
-// → calculate `+` → 7 ✅
-
-// But `"14-3/2"` →  should be `14 - (3/2) = 13`  
-// Your logic:  
-// `"14-3/2"` → handle `/` → 3/2 = 1 → `"14-1"`  
-// → `13` ✅
-
-// But if the input had `"3+5 / 2"` → becomes `"3+2"` → okay.
-
-// Still, the **sign handling and stack logic is fragile**.
-
-// ---
-
-// ### ✅ Fully Working & Cleaned-Up Version
-
-// Here’s a fixed and clean version of your logic:
-
-// ```java
-// import java.util.*;
 
 class Solution {
     public int calculate(String s) {
         if (s == null || s.isEmpty()) return 0;
         Stack<Integer> stack = new Stack<>();
         int num = 0;
-        char sign = '+'; // initial operator
+        char sign = '+'; 
         int n = s.length();
 
         for (int i = 0; i < n; i++) {
