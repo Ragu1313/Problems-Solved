@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ragu1313/Problems-Solved/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
@@ -510,6 +511,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ragu1313/Problems-Solved/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Ragu1313/Problems-Solved/tree/master/0038-count-and-say) |
@@ -685,6 +687,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
