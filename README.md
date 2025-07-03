@@ -421,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3429-special-array-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Ragu1313/Problems-Solved/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3469-maximum-height-of-a-triangle) |
@@ -481,6 +482,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
@@ -721,6 +723,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2562-count-ways-to-build-good-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/2562-count-ways-to-build-good-strings) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
