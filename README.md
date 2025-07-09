@@ -436,6 +436,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Design
 |  |
 | ------- |
@@ -621,6 +622,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ragu1313/Problems-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ragu1313/Problems-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ragu1313/Problems-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -898,6 +900,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ragu1313/Problems-Solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
 | ------- |
