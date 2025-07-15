@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Ragu1313/Problems-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
+| [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
 | [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ragu1313/Problems-Solved/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -242,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0842-card-flipping-game](https://github.com/Ragu1313/Problems-Solved/tree/master/0842-card-flipping-game) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ragu1313/Problems-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/Ragu1313/Problems-Solved/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ragu1313/Problems-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ragu1313/Problems-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -452,6 +454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
+| [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
@@ -813,6 +816,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Ragu1313/Problems-Solved/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
+| [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
 | [2434-design-a-number-container-system](https://github.com/Ragu1313/Problems-Solved/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
