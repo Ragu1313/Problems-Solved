@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ragu1313/Problems-Solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ragu1313/Problems-Solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ragu1313/Problems-Solved/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
