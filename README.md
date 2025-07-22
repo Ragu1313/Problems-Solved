@@ -1022,6 +1022,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0620-not-boring-movies](https://github.com/Ragu1313/Problems-Solved/tree/master/0620-not-boring-movies) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ragu1313/Problems-Solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1317-monthly-transactions-i](https://github.com/Ragu1313/Problems-Solved/tree/master/1317-monthly-transactions-i) |
+| [1390-average-selling-price](https://github.com/Ragu1313/Problems-Solved/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Ragu1313/Problems-Solved/tree/master/1415-students-and-examinations) |
 | [1670-patients-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ragu1313/Problems-Solved/tree/master/1801-average-time-of-process-per-machine) |
