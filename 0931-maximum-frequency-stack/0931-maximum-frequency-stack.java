@@ -1,55 +1,44 @@
-class Node{
-    int val;
-    int freq;
-    // int time;
-    List<Integer> li ;
-    public Node(int val,int freq){
-        this.val = val;
-        this.freq = freq;
-        // this.time = time;
-        li = new ArrayList<>();
-    }
-}
+// class Node{
+//     int val;
+//     // int time;
+//     List<Integer> li ;
+//     public Node(int val,int freq){
+//         this.val = val;
+//         this.freq = freq;
+//         // this.time = time;
+//         li = new ArrayList<>();
+//     }
+// }
 class FreqStack {
-    PriorityQueue<Node> p;
-    Map<Integer,Node> map;
-    int time ;
+    Map<Integer,Integer> map ;
+    Map<Integer,Stack<Integer>> map2;
+    int freq = 0;
     public FreqStack() {
-        time = 1;
-        map = new HashMap<>();
-        p = new PriorityQueue<>((a,b)->{
-            if(b.freq!=a.freq) return b.freq - a.freq;
-            return b.li.get(b.li.size()-1) - a.li.get(a.li.size()-1);
-        });
+       map = new HashMap<>();
+       map2 = new HashMap<>();
     }
     
     public void push(int val) {
-        Node temp = map.get(val);
-        if(temp==null){
-            temp = new Node(val,1);
-            temp.li.add(time++);
-            map.put(val,temp);
-            p.add(temp);
-            return ;
+        int tempfreq = 0;
+        if(map.get(val)!=null){
+            tempfreq = map.get(val);
         }
-        p.remove(temp);
-        temp.freq = temp.freq+1;
-        temp.li.add(time++);
-        map.put(val,temp);
-        p.add(temp);
+        tempfreq++;
+        map.put(val,tempfreq);
+        if(map2.get(tempfreq)==null){
+            map2.put(tempfreq , new Stack<>());
+        }
+        map2.get(tempfreq).add(val);
+        if(freq<tempfreq){
+            freq = tempfreq;
+        }
     }
     
     public int pop() {
-        Node temp = p.poll();
-        temp.freq = temp.freq-1;
-        if(temp.freq>0){
-            // temp.time = time++;
-            temp.li.remove(temp.li.size()-1);
-            p.add(temp);
-            map.put(temp.val,temp);
-        }
-    
-        return temp.val;
+        int res = map2.get(freq).pop();
+        map.put(res,freq-1);
+        if(map2.get(freq).size()==0)  freq--;
+        return res;
     }
 }
 
