@@ -75,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ragu1313/Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Ragu1313/Problems-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/0402-remove-k-digits) |
@@ -458,6 +459,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0146-lru-cache](https://github.com/Ragu1313/Problems-Solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ragu1313/Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
@@ -1031,6 +1033,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ragu1313/Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ragu1313/Problems-Solved/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
