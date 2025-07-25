@@ -364,6 +364,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1524-string-matching-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1582-design-browser-history](https://github.com/Ragu1313/Problems-Solved/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ragu1313/Problems-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ragu1313/Problems-Solved/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/Ragu1313/Problems-Solved/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
@@ -962,6 +963,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ragu1313/Problems-Solved/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Shortest Path
 |  |
@@ -996,6 +998,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ragu1313/Problems-Solved/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ragu1313/Problems-Solved/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
