@@ -79,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Ragu1313/Problems-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/0402-remove-k-digits) |
+| [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ragu1313/Problems-Solved/tree/master/0735-asteroid-collision) |
 | [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu1313/Problems-Solved/tree/master/1078-remove-outermost-parentheses) |
@@ -243,6 +244,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/Ragu1313/Problems-Solved/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Ragu1313/Problems-Solved/tree/master/0797-rabbits-in-forest) |
@@ -564,6 +566,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
@@ -667,6 +670,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ragu1313/Problems-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
