@@ -558,6 +558,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0038-count-and-say](https://github.com/Ragu1313/Problems-Solved/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/Ragu1313/Problems-Solved/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
@@ -745,6 +746,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ragu1313/Problems-Solved/tree/master/0329-longest-increasing-path-in-a-matrix) |
