@@ -371,6 +371,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ragu1313/Problems-Solved/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/Ragu1313/Problems-Solved/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ragu1313/Problems-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ragu1313/Problems-Solved/tree/master/1706-min-cost-to-connect-all-points) |
 | [1755-defuse-the-bomb](https://github.com/Ragu1313/Problems-Solved/tree/master/1755-defuse-the-bomb) |
@@ -681,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ragu1313/Problems-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ragu1313/Problems-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ragu1313/Problems-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Ragu1313/Problems-Solved/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -769,6 +771,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Ragu1313/Problems-Solved/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Ragu1313/Problems-Solved/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ragu1313/Problems-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ragu1313/Problems-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ragu1313/Problems-Solved/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
