@@ -468,6 +468,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3763-separate-squares-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3763-separate-squares-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Design
 |  |
@@ -862,6 +863,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
+| [3763-separate-squares-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3763-separate-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
