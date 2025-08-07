@@ -466,6 +466,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ragu1313/Problems-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -533,6 +534,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -793,6 +795,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Memoization
 |  |
