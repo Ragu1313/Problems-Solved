@@ -1089,6 +1089,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1415-students-and-examinations](https://github.com/Ragu1313/Problems-Solved/tree/master/1415-students-and-examinations) |
 | [1670-patients-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ragu1313/Problems-Solved/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/Ragu1313/Problems-Solved/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Ragu1313/Problems-Solved/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ragu1313/Problems-Solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Queue
