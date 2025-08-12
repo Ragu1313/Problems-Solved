@@ -455,6 +455,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/Ragu1313/Problems-Solved/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
@@ -561,6 +562,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2721-sum-of-distances](https://github.com/Ragu1313/Problems-Solved/tree/master/2721-sum-of-distances) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2915-count-of-interesting-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/2915-count-of-interesting-subarrays) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/Ragu1313/Problems-Solved/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
