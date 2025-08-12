@@ -793,6 +793,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2262-solving-questions-with-brainpower](https://github.com/Ragu1313/Problems-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ragu1313/Problems-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/2562-count-ways-to-build-good-strings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ragu1313/Problems-Solved/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
