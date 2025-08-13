@@ -474,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3763-separate-squares-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3763-separate-squares-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Design
 |  |
 | ------- |
@@ -537,6 +538,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -802,6 +804,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Memoization
 |  |
 | ------- |
