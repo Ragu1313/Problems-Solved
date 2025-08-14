@@ -474,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3763-separate-squares-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3763-separate-squares-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Design
 |  |
@@ -760,6 +761,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -804,6 +806,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Memoization
 |  |
@@ -878,6 +881,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3763-separate-squares-i) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 ## Ordered Set
 |  |
 | ------- |
@@ -945,6 +949,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ragu1313/Problems-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
@@ -1027,6 +1032,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1036,6 +1042,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2176-parallel-courses-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ragu1313/Problems-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 ## Doubly-Linked List
 |  |
 | ------- |
