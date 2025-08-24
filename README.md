@@ -1105,6 +1105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0596-classes-with-at-least-5-students](https://github.com/Ragu1313/Problems-Solved/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Ragu1313/Problems-Solved/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/Ragu1313/Problems-Solved/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/Ragu1313/Problems-Solved/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ragu1313/Problems-Solved/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1317-monthly-transactions-i](https://github.com/Ragu1313/Problems-Solved/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Ragu1313/Problems-Solved/tree/master/1390-average-selling-price) |
