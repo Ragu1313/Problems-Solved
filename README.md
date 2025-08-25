@@ -314,6 +314,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0135-candy](https://github.com/Ragu1313/Problems-Solved/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Ragu1313/Problems-Solved/tree/master/0149-max-points-on-a-line) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
@@ -860,6 +861,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ragu1313/Problems-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
