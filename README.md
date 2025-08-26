@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0463-island-perimeter](https://github.com/Ragu1313/Problems-Solved/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ragu1313/Problems-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Ragu1313/Problems-Solved/tree/master/0617-merge-two-binary-trees) |
+| [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/Ragu1313/Problems-Solved/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Ragu1313/Problems-Solved/tree/master/0690-employee-importance) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -248,6 +249,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
+| [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/Ragu1313/Problems-Solved/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
@@ -493,6 +495,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -600,6 +603,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ragu1313/Problems-Solved/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
+| [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
@@ -913,6 +917,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0386-lexicographical-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ragu1313/Problems-Solved/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ragu1313/Problems-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
