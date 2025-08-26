@@ -456,6 +456,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3194-find-words-containing-character](https://github.com/Ragu1313/Problems-Solved/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ragu1313/Problems-Solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ragu1313/Problems-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
