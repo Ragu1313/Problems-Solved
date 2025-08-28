@@ -1124,6 +1124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1317-monthly-transactions-i](https://github.com/Ragu1313/Problems-Solved/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Ragu1313/Problems-Solved/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Ragu1313/Problems-Solved/tree/master/1415-students-and-examinations) |
+| [1625-group-sold-products-by-the-date](https://github.com/Ragu1313/Problems-Solved/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Ragu1313/Problems-Solved/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ragu1313/Problems-Solved/tree/master/1801-average-time-of-process-per-machine) |
