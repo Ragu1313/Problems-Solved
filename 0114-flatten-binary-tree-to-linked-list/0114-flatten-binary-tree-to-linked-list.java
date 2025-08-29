@@ -14,30 +14,26 @@
  * }
  */
 class Solution {
-    public TreeNode f(TreeNode root){
-        if(root==null)  return root;
-        TreeNode left = null;
-        if(root.left!=null){
-           left = f(root.left);
+    TreeNode temp = null;
+    public TreeNode helper(TreeNode node){
+        if(node==null)  return null;
+        if(node.left==null && node.right==null){
+            return node;
         }
-        if(left!=null){
-            TreeNode temp = root.right;
-            TreeNode dup = root.left;
-            root.right = dup;
-            root.left = null;
-            TreeNode temp1 = dup;
-            while(temp1!=null && temp1.right!=null){
-                temp1 = temp1.right;
-            }
-            temp1.right = temp;
+        TreeNode leftTail = helper(node.left);
+        
+        TreeNode rightTail = helper(node.right);
+        if(leftTail!=null){
+            TreeNode temp = node.right;
+            node.right = node.left;
+            leftTail.right = temp;
         }
-        // TreeNode right = null;
-        if(root.right!=null){
-            f(root.right);
-        }
-        return root;
+        node.left = null;
+        return rightTail!=null?rightTail:leftTail;
+
     }
     public void flatten(TreeNode root) {
-        f(root);
+        helper(root);
+        return ;
     }
 }
