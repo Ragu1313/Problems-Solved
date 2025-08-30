@@ -494,6 +494,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0225-implement-stack-using-queues](https://github.com/Ragu1313/Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Ragu1313/Problems-Solved/tree/master/0307-range-sum-query-mutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ragu1313/Problems-Solved/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0432-all-oone-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0432-all-oone-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
@@ -873,6 +874,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0209-minimum-size-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ragu1313/Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ragu1313/Problems-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ragu1313/Problems-Solved/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
@@ -904,6 +906,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Ragu1313/Problems-Solved/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ragu1313/Problems-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ragu1313/Problems-Solved/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0931-maximum-frequency-stack) |
