@@ -233,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Ragu1313/Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ragu1313/Problems-Solved/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -303,6 +304,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ragu1313/Problems-Solved/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Ragu1313/Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Ragu1313/Problems-Solved/tree/master/0041-first-missing-positive) |
@@ -522,6 +524,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ragu1313/Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ragu1313/Problems-Solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ragu1313/Problems-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
