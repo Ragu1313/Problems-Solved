@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ragu1313/Problems-Solved/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
@@ -641,6 +642,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ragu1313/Problems-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ragu1313/Problems-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1049,6 +1051,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ragu1313/Problems-Solved/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu1313/Problems-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1177,4 +1180,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/0099-recover-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
