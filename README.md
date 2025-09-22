@@ -595,6 +595,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Ragu1313/Problems-Solved/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Ragu1313/Problems-Solved/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ragu1313/Problems-Solved/tree/master/0139-word-break) |
