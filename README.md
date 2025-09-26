@@ -341,6 +341,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0493-reverse-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
+| [0611-valid-triangle-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ragu1313/Problems-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ragu1313/Problems-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -677,6 +678,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0402-remove-k-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ragu1313/Problems-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
@@ -714,6 +716,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ragu1313/Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Ragu1313/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ragu1313/Problems-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
@@ -848,6 +851,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
+| [0611-valid-triangle-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
 | [1972-rotating-the-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1972-rotating-the-box) |
@@ -883,6 +887,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ragu1313/Problems-Solved/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Ragu1313/Problems-Solved/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Ragu1313/Problems-Solved/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ragu1313/Problems-Solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
