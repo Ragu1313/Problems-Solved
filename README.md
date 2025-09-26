@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0149-max-points-on-a-line](https://github.com/Ragu1313/Problems-Solved/tree/master/0149-max-points-on-a-line) |
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Ragu1313/Problems-Solved/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Ragu1313/Problems-Solved/tree/master/0797-rabbits-in-forest) |
@@ -608,6 +609,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Ragu1313/Problems-Solved/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Ragu1313/Problems-Solved/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Ragu1313/Problems-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ragu1313/Problems-Solved/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -750,6 +752,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0051-n-queens](https://github.com/Ragu1313/Problems-Solved/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/Ragu1313/Problems-Solved/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ragu1313/Problems-Solved/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
