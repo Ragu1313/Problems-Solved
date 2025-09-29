@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Ragu1313/Problems-Solved/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Ragu1313/Problems-Solved/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -365,6 +366,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0954-maximum-sum-circular-subarray](https://github.com/Ragu1313/Problems-Solved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ragu1313/Problems-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ragu1313/Problems-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ragu1313/Problems-Solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -690,6 +692,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0770-couples-holding-hands](https://github.com/Ragu1313/Problems-Solved/tree/master/0770-couples-holding-hands) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Ragu1313/Problems-Solved/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ragu1313/Problems-Solved/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ragu1313/Problems-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ragu1313/Problems-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -728,6 +731,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0726-number-of-atoms](https://github.com/Ragu1313/Problems-Solved/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ragu1313/Problems-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ragu1313/Problems-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ragu1313/Problems-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
