@@ -1,9 +1,9 @@
 class Solution {
-    Set<ArrayList<Integer>> set ;
+    ArrayList<ArrayList<Integer>> res ;
     public void f(int ind,int target,int k,boolean vis[],ArrayList<Integer> arr){
         
         if(target==0 && k==0){
-            set.add(new ArrayList<>(arr));
+            res.add(new ArrayList<>(arr));
             return ;
         }
         
@@ -23,12 +23,12 @@ class Solution {
     }
     
     public ArrayList<ArrayList<Integer>> combinationSum(int n, int k) {
-        set = new HashSet<>();
+        res = new ArrayList<>();
         f(0,n,k,new boolean[10],new ArrayList<>());
-        ArrayList<ArrayList<Integer>> res = new ArrayList<>();
-        for(ArrayList<Integer> i : set){
-            res.add(i);
-        }
+        // ArrayList<ArrayList<Integer>> 
+        // for(ArrayList<Integer> i : set){
+        //     res.add(i);
+        // }
         return res;
     }
 }
