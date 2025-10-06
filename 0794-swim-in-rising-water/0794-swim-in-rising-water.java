@@ -1,39 +1,30 @@
 class Solution {
-    public int f(int i,int j,int maxi,int n,int m,int [][]grid,int dp[][][]){
-        if(i<0 || i>=n || j>=m || j<0 || grid[i][j]==-1){
-            return 1000000;
-        }
-        if(i==n-1 && j==m-1) {
-            if(maxi<grid[i][j]){
-                return grid[i][j];
-            }
-            return maxi;
-        }
-        if(dp[i][j][maxi]!=-1){
-            return dp[i][j][maxi];
-        }
-        if(maxi<grid[i][j]){
-            maxi = grid[i][j];
-        }
-        int temp = grid[i][j];
-        grid[i][j] = -1;
-        int top = f(i-1,j,maxi,n,m,grid,dp);
-        int left = f(i,j-1,maxi,n,m,grid,dp);
-        int right = f(i,j+1,maxi,n,m,grid,dp);
-        int bottom = f(i+1,j,maxi,n,m,grid,dp);
-        grid[i][j] = temp;
-        return dp[i][j][maxi] = Math.min(top,Math.min(left,Math.min(right,bottom)));
-    }
     public int swimInWater(int[][] grid) {
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->a[0]-b[0]);
+        pq.add(new int[]{grid[0][0],0,0});
+        int res = grid[0][0];
         int n = grid.length;
-        int m = grid[0].length;
-        int mul = n*m;
-        int dp[][][] = new int[n][m][mul];
-        for(int i[][]:dp){
-            for(int j[] :i){
-                Arrays.fill(j,-1);
+        int dir[][] = {  
+            {-1,0} , {0,-1} , {1,0} , {0,1}
+        };
+        int vis[][] = new int[n][n];
+        while(!pq.isEmpty()){
+            int temp[] = pq.poll();
+            int i = temp[1];
+            int j = temp[2]; 
+            res = Math.max(res,temp[0]);
+            if(i==n-1 && j==n-1) {
+                return res;
+            }
+            for(int k=0;k<4;k++){
+                int newi = i + dir[k][0];
+                int newj = j + dir[k][1];
+                if(newi>=0 && newj>=0 && newi<n && newj<n &&vis[newi][newj]==0){
+                    vis[newi][newj] = 1;
+                    pq.add(new int[]{grid[newi][newj],newi,newj});
+                }
             }
         }
-        return f(0,0,grid[0][0],grid.length,grid[0].length,grid,dp);
+        return -1;
     }
 }
