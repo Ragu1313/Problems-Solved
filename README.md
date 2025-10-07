@@ -495,6 +495,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
+| [4010-maximize-alternating-sum-using-swaps](https://github.com/Ragu1313/Problems-Solved/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Design
 |  |
 | ------- |
@@ -676,6 +677,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ragu1313/Problems-Solved/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [4010-maximize-alternating-sum-using-swaps](https://github.com/Ragu1313/Problems-Solved/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Greedy
 |  |
 | ------- |
@@ -716,6 +718,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ragu1313/Problems-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ragu1313/Problems-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [4010-maximize-alternating-sum-using-swaps](https://github.com/Ragu1313/Problems-Solved/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Sorting
 |  |
 | ------- |
@@ -749,6 +752,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ragu1313/Problems-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Ragu1313/Problems-Solved/tree/master/3430-count-days-without-meetings) |
+| [4010-maximize-alternating-sum-using-swaps](https://github.com/Ragu1313/Problems-Solved/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Backtracking
 |  |
 | ------- |
