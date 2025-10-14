@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0282-expression-add-operators](https://github.com/Ragu1313/Problems-Solved/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Ragu1313/Problems-Solved/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/Ragu1313/Problems-Solved/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/Ragu1313/Problems-Solved/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/Ragu1313/Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/1018-largest-perimeter-triangle) |
@@ -621,6 +622,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ragu1313/Problems-Solved/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Ragu1313/Problems-Solved/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0556-next-greater-element-iii) |
 | [0676-implement-magic-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ragu1313/Problems-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Ragu1313/Problems-Solved/tree/master/0720-longest-word-in-dictionary) |
@@ -868,6 +870,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ragu1313/Problems-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Ragu1313/Problems-Solved/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Ragu1313/Problems-Solved/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/Ragu1313/Problems-Solved/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Ragu1313/Problems-Solved/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ragu1313/Problems-Solved/tree/master/0868-push-dominoes) |
