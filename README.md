@@ -162,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2104-operations-on-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2104-operations-on-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ragu1313/Problems-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ragu1313/Problems-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -222,6 +223,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/Ragu1313/Problems-Solved/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ragu1313/Problems-Solved/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ragu1313/Problems-Solved/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2104-operations-on-tree](https://github.com/Ragu1313/Problems-Solved/tree/master/2104-operations-on-tree) |
 | [2344-escape-the-spreading-fire](https://github.com/Ragu1313/Problems-Solved/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ragu1313/Problems-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -641,6 +643,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ragu1313/Problems-Solved/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu1313/Problems-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu1313/Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu1313/Problems-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1020,6 +1023,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Ragu1313/Problems-Solved/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ragu1313/Problems-Solved/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ragu1313/Problems-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
