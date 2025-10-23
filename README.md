@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Ragu1313/Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ragu1313/Problems-Solved/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/Ragu1313/Problems-Solved/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/Ragu1313/Problems-Solved/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Ragu1313/Problems-Solved/tree/master/0282-expression-add-operators) |
@@ -74,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0025-reverse-nodes-in-k-group](https://github.com/Ragu1313/Problems-Solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ragu1313/Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ragu1313/Problems-Solved/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Ragu1313/Problems-Solved/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ragu1313/Problems-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -82,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/Ragu1313/Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ragu1313/Problems-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Ragu1313/Problems-Solved/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Ragu1313/Problems-Solved/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Ragu1313/Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Ragu1313/Problems-Solved/tree/master/0316-remove-duplicate-letters) |
@@ -616,6 +619,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ragu1313/Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/Ragu1313/Problems-Solved/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Ragu1313/Problems-Solved/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Ragu1313/Problems-Solved/tree/master/0282-expression-add-operators) |
