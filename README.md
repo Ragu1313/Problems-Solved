@@ -498,6 +498,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -741,6 +742,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ragu1313/Problems-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ragu1313/Problems-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Ragu1313/Problems-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/Ragu1313/Problems-Solved/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Sorting
@@ -776,6 +778,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ragu1313/Problems-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Ragu1313/Problems-Solved/tree/master/3430-count-days-without-meetings) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/Ragu1313/Problems-Solved/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Backtracking
 |  |
@@ -901,6 +904,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2551-apply-operations-to-an-array](https://github.com/Ragu1313/Problems-Solved/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ragu1313/Problems-Solved/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
@@ -952,6 +956,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ragu1313/Problems-Solved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2904-sorting-three-groups](https://github.com/Ragu1313/Problems-Solved/tree/master/2904-sorting-three-groups) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3763-separate-squares-i) |
 | [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
