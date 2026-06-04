@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3336-water-bottles-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Ragu1313/Problems-Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -874,6 +875,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ragu1313/Problems-Solved/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ragu1313/Problems-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Ragu1313/Problems-Solved/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3919-network-recovery-pathways](https://github.com/Ragu1313/Problems-Solved/tree/master/3919-network-recovery-pathways) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Ragu1313/Problems-Solved/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
@@ -1054,6 +1056,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2998-count-symmetric-integers](https://github.com/Ragu1313/Problems-Solved/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Ragu1313/Problems-Solved/tree/master/3469-maximum-height-of-a-triangle) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ragu1313/Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Rolling Hash
 |  |
 | ------- |
